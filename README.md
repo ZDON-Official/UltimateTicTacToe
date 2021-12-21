@@ -11,4 +11,10 @@ This project requires the installation of pygame to run. To install pygame, use 
 > python -m pip install pygame
 
 Once pygame is installled, run the main file to start the game.
-![Alt text](images/Tic-Tac-Toe.png)
+
+![Alt text](images/main menu.png)
+
+# How To Play Ultimate Tic-tac-Toe
+------------------
+
+
