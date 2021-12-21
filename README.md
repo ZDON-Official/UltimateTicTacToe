@@ -9,3 +9,5 @@ This is version 1.0 of the project.
 ------------------
 This project requires the installation of pygame to run. To install pygame, use the command below in the terminal.
 > python -m pip install pygame
+
+Once pygame is installled, run the main file to start the game.
